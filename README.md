@@ -31,7 +31,7 @@ Policies and standards need to be regularly monitored and evaluated to ensure th
 ## 3.	Setting and Maintaining Data Security Standards
 Setting data security standards is a critical step in protecting and securing sensitive data. These standards regulate access to data, specify encryption methods, and include data management policies. Here are the key steps for setting and maintaining data security standards:
 
-  #a)	Identifying Sensitive Data: 
+  ###a)	Identifying Sensitive Data: 
   Determining What Data Needs to Be Protected as a first step, it is necessary to classify the data owned by the organization and identify sensitive data. This includes identifying sensitive data such as customer information, financial data, internal strategic information, etc. This step plays an important role in determining which data needs to be protected and which data needs higher levels of protection.
 
   **b)	Effective Data Encryption Methods**: 
