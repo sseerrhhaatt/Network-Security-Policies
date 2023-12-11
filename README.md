@@ -31,7 +31,7 @@ f)	Staff Training and Awareness:
 In order for the standards to be applied effectively, employees should be regularly trained and made aware. Regular training on data security policies and standards increases staff compliance with standards.
 Setting and maintaining data security standards plays a fundamental role in protecting data, one of the most valuable assets of organizations. These standards promote a culture of data security and help prevent potential security breaches. Successful completion of these steps ensures effective protection of sensitive data. Data security standards, which are constantly updated and reviewed, should be maintained in accordance with changing threats and data management needs.
 
-4)	Types of Network Security:
+# 4)	Types of Network Security:
 The following list lists the different types of network security:
 •	Firewalls
 •	Access control
@@ -56,7 +56,7 @@ Application security monitors and locks down weak points of an application. It i
 g)	Behavioral Analytics:
 If you want to be able to detect anomalies and various network breaches as soon as they occur, you need to have a clear idea of the normal behavior of your network. There are several behavioral analysis tools available that automatically detect abnormal activity.
 
-5)	Network Security Attack:
+# 5)	Network Security Attack:
 A network security attack is a malicious attempt by cybercriminals to compromise the security of a network. These attacks are the most important reason for the need for network security. Network security is responsible for preventing these attacks on the network infrastructure.
 Types of Attacks in Network Security:
 Some of the different types of network security attacks are as follows:
@@ -69,7 +69,7 @@ Compromised Key: When a hacker obtains a network security key, they use a compro
 Botnet: It  is a malicious software that attacks a series of computers that are connected to each other through a private network. Hackers access and control all systems on that network without the owner's knowledge. All computers in this network are called zombies, which, according to the hacker's instructions, disrupt a large number of devices.
 DoS: DoS is known as denial of service. This attack is capable of partially or completely destroying users' networks. DoS can also attack even an entire IT infrastructure, making it unusable for real users.
 
-6)	Conclusion and Recommendations:
+# 6)	Conclusion and Recommendations:
 
 Establishing and enforcing network security policies and standards is critical for organizations in today's digital world. These policies play a fundamental role in ensuring data security by creating a network infrastructure that is resilient to cyber threats.
 a)	The Importance of Network Security Policies and Standards
@@ -79,7 +79,7 @@ Open-source network security solutions are noted for their low cost and often fl
 For example, open source IPS/IDS solutions such as Snort stand out for their flexibility and broad community support. However, it can lead to performance issues on large networks. Open-source vulnerability scanning tools, such as OpenVAS, come with comprehensive scanning capabilities but can produce false positives. The choice of these solutions shows that factors such as the needs of the institution, staff competence and budget should be taken into account.
 c)	Future Developments and Recommendations
 Network security is an ever-evolving field. For future developments, the integration of new technologies such as artificial intelligence and machine learning into security solutions is important. These technologies can be more effective at detecting and preventing attacks quickly. In addition, the implementation of continuous training and awareness programs plays a critical role in ensuring that employees are aware of safety and that policies/standards are implemented. In conclusion, establishing network security policies and standards is important to be prepared not only for current threats but also for evolving threats in the future. Choosing the right solutions and keeping them constantly up-to-date helps organizations to become more robust in terms of security.
-7)	Real-world examples:
+# 7)	Real-world examples:
 Data Leak Event:
 An organization realizes that a database containing sensitive customer information has been leaked. This indicates that data security policies are weak and cyber attackers are exploiting vulnerabilities within the network. There are security vulnerabilities in encryption standards, data backup policies, and lack of access control.
 Intrusion Detection and Prevention:
