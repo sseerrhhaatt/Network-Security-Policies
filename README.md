@@ -56,12 +56,19 @@ In order for the standards to be applied effectively, employees should be regula
    The following list lists the different types of network security:
    
    a)	Firewalls
+   
    b)	Access control
+   
    c)	Virtual private networks (VPNs)
+   
    d)	Intrusion prevention systems
+   
    e)	Wireless security
+   
    f)	Application security
+   
    g)	Behavioral analysis
+   
 
   a)	**Firewalls**:
     Firewalls are services or devices that act as protections, which are responsible for deciding which web page, pop-up, and other services enter and exit a network. Firewalls use a set of predefined rules that help block or allow traffic, depending on the requirements. Firewalls may be required for software, hardware, or both, depending on the needs of the system.
