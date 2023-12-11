@@ -55,19 +55,19 @@ In order for the standards to be applied effectively, employees should be regula
 
    The following list lists the different types of network security:
    
-   a)	Firewalls
+a)	Firewalls
    
-   b)	Access control
+b)	Access control
+  
+c)	Virtual private networks (VPNs)
+  
+d)	Intrusion prevention systems
    
-   c)	Virtual private networks (VPNs)
+e)	Wireless security
    
-   d)	Intrusion prevention systems
+f)	Application security
    
-   e)	Wireless security
-   
-   f)	Application security
-   
-   g)	Behavioral analysis
+g)	Behavioral analysis
    
 
   a)	**Firewalls**:
