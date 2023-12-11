@@ -53,7 +53,6 @@ In order for the standards to be applied effectively, employees should be regula
 
 ## 4.	Types of Network Security:
   The following list lists the different types of network security:
-  
       •	Firewalls
       •	Access control
       •	Virtual private networks (VPNs)
