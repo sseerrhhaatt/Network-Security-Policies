@@ -84,9 +84,9 @@ In order for the standards to be applied effectively, employees should be regula
     If you want to be able to detect anomalies and various network breaches as soon as they occur, you need to have a clear idea of the normal behavior of your network. There are several behavioral analysis tools available that automatically detect abnormal activity.
 
 ## 5)	Network Security Attack:
-    A network security attack is a malicious attempt by cybercriminals to compromise the security of a network. These attacks are the most important reason for the need for network security. Network security is responsible for preventing these attacks on the network infrastructure.
+  A network security attack is a malicious attempt by cybercriminals to compromise the security of a network. These attacks are the most important reason for the need for network security. Network security is responsible for preventing these attacks on the network infrastructure.
     
-    **Types of Attacks in Network Security:**
+  **Types of Attacks in Network Security:**
 
   Some of the different types of network security attacks are as follows:
 
