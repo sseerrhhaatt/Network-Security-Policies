@@ -28,10 +28,10 @@ Training employees is of great importance for the successful implementation of t
   Regular Review and Update of Policies
 Policies and standards need to be regularly monitored and evaluated to ensure their effectiveness. Network security policies must be constantly reviewed and updated in accordance with technological changes, new threats, and organizational needs. In addition, regular audits should be conducted to ensure that policies are being implemented appropriately.
 
-# 3.	Setting and Maintaining Data Security Standards
+## 3.	Setting and Maintaining Data Security Standards
 Setting data security standards is a critical step in protecting and securing sensitive data. These standards regulate access to data, specify encryption methods, and include data management policies. Here are the key steps for setting and maintaining data security standards:
 
-  **a)	Identifying Sensitive Data**: 
+  #a)	Identifying Sensitive Data: 
   Determining What Data Needs to Be Protected as a first step, it is necessary to classify the data owned by the organization and identify sensitive data. This includes identifying sensitive data such as customer information, financial data, internal strategic information, etc. This step plays an important role in determining which data needs to be protected and which data needs higher levels of protection.
 
   **b)	Effective Data Encryption Methods**: 
