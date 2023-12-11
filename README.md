@@ -53,41 +53,58 @@ In order for the standards to be applied effectively, employees should be regula
 
 ## 4)	Types of Network Security:
   The following list lists the different types of network security:
-    •	Firewalls
-    •	Access control
-    •	Virtual private networks (VPNs)
-    •	Intrusion prevention systems
-    •	Wireless security
-    •	Application security
-    •	Behavioral analysis
+  
+      •	Firewalls
+      •	Access control
+      •	Virtual private networks (VPNs)
+      •	Intrusion prevention systems
+      •	Wireless security
+      •	Application security
+      •	Behavioral analysis
 
-a)	Firewalls:
-Firewalls are services or devices that act as protections, which are responsible for deciding which web page, pop-up, and other services enter and exit a network. Firewalls use a set of predefined rules that help block or allow traffic, depending on the requirements. Firewalls may be required for software, hardware, or both, depending on the needs of the system.
-b)	Access Control:
-Access control allows businesses to prevent potential attackers from leaking confidential information, preventing unauthorized devices and users from accessing the given network. This ensures that only users who are allowed to work with the given resources can access the network.
-c)	Virtual Private Networks:
-A VPN typically uses the internet to encrypt the connection between an endpoint device and a network. In addition, VPN enables professionals to verify the communication between the network and the device. This results in the creation of an encrypted and secure tunnel over the internet.
-d)	Intrusion Prevention Systems:
-Intrusion prevention systems find and prevent attacks by scanning network traffic. This is done by using databases of attack techniques familiar to professionals and correlating them with network activities.
-e)	Wireless Security:
-Wired networks are not as secure as wireless networks. It requires you to control the devices and users who can access your company's network. That's why it's important to have wireless security, especially when cybercriminals are quickly targeting your business to leak confidential information.
-f)	Application Security:
-Application security monitors and locks down weak points of an application. It includes a range of software, hardware, and processes that are easily targeted by hackers to infiltrate your network.
-g)	Behavioral Analytics:
-If you want to be able to detect anomalies and various network breaches as soon as they occur, you need to have a clear idea of the normal behavior of your network. There are several behavioral analysis tools available that automatically detect abnormal activity.
+  a)	**Firewalls**:
+    Firewalls are services or devices that act as protections, which are responsible for deciding which web page, pop-up, and other services enter and exit a network. Firewalls use a set of predefined rules that help block or allow traffic, depending on the requirements. Firewalls may be required for software, hardware, or both, depending on the needs of the system.
+
+  b)	**Access Control**:
+    Access control allows businesses to prevent potential attackers from leaking confidential information, preventing unauthorized devices and users from accessing the given network. This ensures that only users who are allowed to work with the given resources can access the network.
+
+  c)	**Virtual Private Networks**:
+    A VPN typically uses the internet to encrypt the connection between an endpoint device and a network. In addition, VPN enables professionals to verify the communication between the network and the device. This results in the creation of an encrypted and secure tunnel over the internet.
+
+  d)	**Intrusion Prevention Systems**:
+    Intrusion prevention systems find and prevent attacks by scanning network traffic. This is done by using databases of attack techniques familiar to professionals and correlating them with network activities.
+
+  e)	**Wireless Security**:
+    Wired networks are not as secure as wireless networks. It requires you to control the devices and users who can access your company's network. That's why it's important to have wireless security, especially when cybercriminals are quickly targeting your business to leak confidential information.
+
+  f)	**Application Security**:
+    Application security monitors and locks down weak points of an application. It includes a range of software, hardware, and processes that are easily targeted by hackers to infiltrate your network.
+
+  g)	**Behavioral Analytics**:
+    If you want to be able to detect anomalies and various network breaches as soon as they occur, you need to have a clear idea of the normal behavior of your network. There are several behavioral analysis tools available that automatically detect abnormal activity.
 
 ## 5)	Network Security Attack:
-A network security attack is a malicious attempt by cybercriminals to compromise the security of a network. These attacks are the most important reason for the need for network security. Network security is responsible for preventing these attacks on the network infrastructure.
-Types of Attacks in Network Security:
-Some of the different types of network security attacks are as follows:
-Virus: It  is a downloadable malicious file, and once opened by a user, it begins to replace the codes on the computer with its own code sets. When it spreads, the system files on the computer become corrupted, which can cause the files of other computer systems on the network to become corrupted.
-Malware: It is among the most harmful and rapid types of malicious attacks that help gain unauthorized access to a system or system network. Malware is often self-replicating; That is, when one system is corrupted, the malware easily disrupts all computer systems that connect to the network via the internet. In the case of malware, even an external device connected to the system can be corrupted.
-Worm: Enters a  specific system without the need for a user. If a user is running an application that is not very powerful, then any hacker using the same internet connection can easily send malware to that application. Without the user's knowledge, the application can accept and run this malware over the internet, which can lead to the creation of a worm.
-Packet Sniffer: If a user places a passive receiver in a wireless transmitter region, they see a copy of the packets being transmitted. Usually, these packages consist of confidential organizational data, trade secrets, etc., that can reach the package recipient. Cryptography is the best way to prevent these types of network security attacks.
-Phishing: This is one of the most common forms of attacks on network security. Hackers send emails to users that pretend to be from a known source, such as investors and bankers, creating a sense of urgency to grab users' attention or excite them. These emails are likely to contain malicious attachments or links that ask users to share confidential data.
-Compromised Key: When a hacker obtains a network security key, they use a compromised key that acts as a tool to extract sensitive data and gain unauthorized access to secure data. This key consists of a code or number that helps in the interpretation of secure data without any notification to the sender or receiver.
-Botnet: It  is a malicious software that attacks a series of computers that are connected to each other through a private network. Hackers access and control all systems on that network without the owner's knowledge. All computers in this network are called zombies, which, according to the hacker's instructions, disrupt a large number of devices.
-DoS: DoS is known as denial of service. This attack is capable of partially or completely destroying users' networks. DoS can also attack even an entire IT infrastructure, making it unusable for real users.
+    A network security attack is a malicious attempt by cybercriminals to compromise the security of a network. These attacks are the most important reason for the need for network security. Network security is responsible for preventing these attacks on the network infrastructure.
+    
+    **Types of Attacks in Network Security:**
+
+  Some of the different types of network security attacks are as follows:
+
+  **Virus:** It  is a downloadable malicious file, and once opened by a user, it begins to replace the codes on the computer with its own code sets. When it spreads, the system files on the computer become corrupted, which can cause the files of other computer systems on the network to become corrupted.
+
+  **Malware:** It is among the most harmful and rapid types of malicious attacks that help gain unauthorized access to a system or system network. Malware is often self-replicating; That is, when one system is corrupted, the malware easily disrupts all computer systems that connect to the network via the internet. In the case of malware, even an external device connected to the system can be corrupted.
+
+  **Worm:** Enters a  specific system without the need for a user. If a user is running an application that is not very powerful, then any hacker using the same internet connection can easily send malware to that application. Without the user's knowledge, the application can accept and run this malware over the internet, which can lead to the creation of a worm.
+
+  **Packet Sniffer:** If a user places a passive receiver in a wireless transmitter region, they see a copy of the packets being transmitted. Usually, these packages consist of confidential organizational data, trade secrets, etc., that can reach the package recipient. Cryptography is the best way to prevent these types of network security attacks.
+
+  **Phishing:** This is one of the most common forms of attacks on network security. Hackers send emails to users that pretend to be from a known source, such as investors and bankers, creating a sense of urgency to grab users' attention or excite them. These emails are likely to contain malicious attachments or links that ask users to share confidential data.
+
+  **Compromised Key:** When a hacker obtains a network security key, they use a compromised key that acts as a tool to extract sensitive data and gain unauthorized access to secure data. This key consists of a code or number that helps in the interpretation of secure data without any notification to the sender or receiver.
+
+  **Botnet:** It  is a malicious software that attacks a series of computers that are connected to each other through a private network. Hackers access and control all systems on that network without the owner's knowledge. All computers in this network are called zombies, which, according to the hacker's instructions, disrupt a large number of devices.
+
+  **DoS:** DoS is known as denial of service. This attack is capable of partially or completely destroying users' networks. DoS can also attack even an entire IT infrastructure, making it unusable for real users.
 
 ## 6)	Conclusion and Recommendations:
 
