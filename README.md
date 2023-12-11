@@ -52,14 +52,16 @@ In order for the standards to be applied effectively, employees should be regula
   Setting and maintaining data security standards plays a fundamental role in protecting data, one of the most valuable assets of organizations. These standards promote a culture of data security and help prevent potential security breaches. Successful completion of these steps ensures effective protection of sensitive data. Data security standards, which are constantly updated and reviewed, should be maintained in accordance with changing threats and data management needs.
 
 ## 4.	Types of Network Security:
+
    The following list lists the different types of network security:
-      •	Firewalls
-      •	Access control
-      •	Virtual private networks (VPNs)
-      •	Intrusion prevention systems
-      •	Wireless security
-      •	Application security
-      •	Behavioral analysis
+   
+   •	Firewalls
+   •	Access control
+   •	Virtual private networks (VPNs)
+   •	Intrusion prevention systems
+   •	Wireless security
+   •	Application security
+   •	Behavioral analysis
 
   a)	**Firewalls**:
     Firewalls are services or devices that act as protections, which are responsible for deciding which web page, pop-up, and other services enter and exit a network. Firewalls use a set of predefined rules that help block or allow traffic, depending on the requirements. Firewalls may be required for software, hardware, or both, depending on the needs of the system.
