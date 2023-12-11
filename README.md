@@ -108,26 +108,30 @@ In order for the standards to be applied effectively, employees should be regula
 
 ## 6)	Conclusion and Recommendations:
 
-    Establishing and enforcing network security policies and standards is critical for organizations in today's digital world. These policies play a fundamental role in ensuring data security by creating a network infrastructure that is resilient to cyber threats.
+  Establishing and enforcing network security policies and standards is critical for organizations in today's digital world. These policies play a fundamental role in ensuring data security by creating a network infrastructure that is resilient to cyber threats.
     
    **a)	The Importance of Network Security Policies and Standards**
     Network security policies are essential for protecting organizations' assets and creating defense mechanisms against cyberattacks. With the rise of threats such as data leaks, ransomware, phishing, etc., it is vital to establish the right policies and standards. It strengthens the organization's defense systems by providing guidance in areas such as policies, data security, access control, and intrusion prevention.
     
-  ** b) Evaluation of Proposed Solutions and Conclusions**
+   **b) Evaluation of Proposed Solutions and Conclusions**
     Open-source network security solutions are noted for their low cost and often flexible nature. However, they can cause performance issues in large-scale organizations. The use of these solutions should be evaluated by considering their compatibility with the needs and infrastructure of the institution.
 For example, open source IPS/IDS solutions such as Snort stand out for their flexibility and broad community support. However, it can lead to performance issues on large networks. Open-source vulnerability scanning tools, such as OpenVAS, come with comprehensive scanning capabilities but can produce false positives. The choice of these solutions shows that factors such as the needs of the institution, staff competence and budget should be taken into account.
 
-  ** c) Future Developments and Recommendations**
+   **c) Future Developments and Recommendations**
 Network security is an ever-evolving field. For future developments, the integration of new technologies such as artificial intelligence and machine learning into security solutions is important. These technologies can be more effective at detecting and preventing attacks quickly. In addition, the implementation of continuous training and awareness programs plays a critical role in ensuring that employees are aware of safety and that policies/standards are implemented. In conclusion, establishing network security policies and standards is important to be prepared not only for current threats but also for evolving threats in the future. Choosing the right solutions and keeping them constantly up-to-date helps organizations to become more robust in terms of security.
 
 ## 7)	Real-world examples:
 
-Data Leak Event:
-An organization realizes that a database containing sensitive customer information has been leaked. This indicates that data security policies are weak and cyber attackers are exploiting vulnerabilities within the network. There are security vulnerabilities in encryption standards, data backup policies, and lack of access control.
-Intrusion Detection and Prevention:
-An organization detects and quickly responds to a DDoS (Denial of Service) attack thanks to network monitoring and intrusion detection systems. This demonstrates the effectiveness of network security policies in detecting and preventing attacks. The effects of attacks are minimized thanks to preventive measures such as network monitoring solutions and firewalls.
-Security Breaches Due to Employee Errors:
-An employee accidentally sends a sensitive document to the wrong recipient. This highlights a lack of education and awareness. It turns out that employees should be aware of security policies and be careful about data sharing. Such situations indicate the need to update policies and training.
-Impact of Security Updates:
-An organization encounters a situation where timely updates to its security software are not made. This is due to the fact that security gaps in systems are not closed. It is emphasized that updates should be followed and implemented regularly.
-These real-world scenarios illustrate how network security policies and solutions can be effective in real life. Each scenario reveals different weaknesses and policy gaps, helping organizations review their security strategies and identify areas where they need to improve.
+  **Data Leak Event:**
+    An organization realizes that a database containing sensitive customer information has been leaked. This indicates that data security policies are weak and cyber attackers are exploiting vulnerabilities within the network. There are security vulnerabilities in encryption standards, data backup policies, and lack of access control.
+    
+  **Intrusion Detection and Prevention:**
+    An organization detects and quickly responds to a DDoS (Denial of Service) attack thanks to network monitoring and intrusion detection systems. This demonstrates the effectiveness of network security policies in detecting and preventing attacks. The effects of attacks are minimized thanks to preventive measures such as network monitoring solutions and firewalls.
+    
+  **Security Breaches Due to Employee Errors:**
+    An employee accidentally sends a sensitive document to the wrong recipient. This highlights a lack of education and awareness. It turns out that employees should be aware of security policies and be careful about data sharing. Such situations indicate the need to update policies and training.
+    
+  **Impact of Security Updates:**
+    An organization encounters a situation where timely updates to its security software are not made. This is due to the fact that security gaps in systems are not closed. It is emphasized that updates should be followed and implemented regularly.
+    
+  These real-world scenarios illustrate how network security policies and solutions can be effective in real life. Each scenario reveals different weaknesses and policy gaps, helping organizations review their security strategies and identify areas where they need to improve.
