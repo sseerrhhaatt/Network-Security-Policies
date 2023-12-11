@@ -107,7 +107,6 @@ In order for the standards to be applied effectively, employees should be regula
   **DoS:** DoS is known as denial of service. This attack is capable of partially or completely destroying users' networks. DoS can also attack even an entire IT infrastructure, making it unusable for real users.
 
 ## 6)	Conclusion and Recommendations:
-
   Establishing and enforcing network security policies and standards is critical for organizations in today's digital world. These policies play a fundamental role in ensuring data security by creating a network infrastructure that is resilient to cyber threats.
     
    **a)	The Importance of Network Security Policies and Standards**
