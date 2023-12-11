@@ -2,6 +2,12 @@
 
  Lecture: Network Security with Open Source Tools
 
+ Links:
+ 
+ GitHub repository page: https://github.com/sseerrhhaatt/Network-Security-Policies
+ 
+ GitHub Page: https://sseerrhhaatt.github.io/Network-Security-Policies/
+
  Serhat Enes Özdemir 20290485 Electrical Electronics Engineering
 
 
